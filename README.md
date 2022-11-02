@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdud0529&show_icons=true&theme=flag-india)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdud0529&langs_count=10&layout=compact&theme=flag-india)](https://github.com/jogilsang/ekdud0529)
-#
-<img src="https://badge42.herokuapp.com/api/stats/dha?privacyEmail=true"/>

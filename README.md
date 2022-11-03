@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 
 I'm currently studying backend development.
-- [Blog](https://wldwlddl59.tistory.com/)
-- E-mail : akswb0529@gmail.com
+- 🌱 [Blog](https://wldwlddl59.tistory.com/)
+- 📫 E-mail : akswb0529@gmail.com
 
 ### 📖 Education
 <img src="https://img.shields.io/badge/42SEOUL-000000?style=flat-square&logo=42&logoColor=white"/>  
 
 ### 🖥️Tech Stack
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>   
+<img src="https://img.shields.io/badge/Java%20-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/>   
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdud0529&show_icons=true&theme=flag-india)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdud0529&langs_count=10&layout=compact&theme=flag-india)](https://github.com/jogilsang/ekdud0529)

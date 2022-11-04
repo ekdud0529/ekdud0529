@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm currently studying backend development.
 - 🌱 [Blog](https://wldwlddl59.tistory.com/)
-- 📫 E-mail : akswb0529@gmail.com
+- 📫 E-mail : ekffkddl0529@naver.com
 
 ### 📖 Education
 - <img src="https://img.shields.io/badge/42SEOUL-000000?style=flat-square&logo=42&logoColor=white"/>  

@@ -28,6 +28,6 @@ I'm currently studying backend development.
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdud0529&show_icons=true&theme=flag-india)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdud0529&langs_count=10&layout=compact&theme=flag-india)](https://github.com/jogilsang/ekdud0529)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdud0529&show_icons=true&theme=flag-india)
 #
 [![daykim's 42 stats](https://badge42.vercel.app/api/v2/cl1oxryjd004409ilqt88yd7f/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)

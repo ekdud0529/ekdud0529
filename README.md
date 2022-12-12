@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekdud0529&count_bg=%234CC1DF&title_bg=%233DB1ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekdud0529&count_bg=%234CC1DF&title_bg=%233DB1ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 I'm currently studying backend development.
 - 🌱 [Blog](https://wldwlddl59.tistory.com/)
 - 📫 E-mail : ekffkddl0529@naver.com

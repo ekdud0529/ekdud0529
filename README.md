@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekdud0529&count_bg=%234CC1DF&title_bg=%233DB1ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 I'm currently studying backend development.
 - 🌱 [Blog](https://wldwlddl59.tistory.com/)
 - 📫 E-mail : ekffkddl0529@naver.com
@@ -29,5 +29,6 @@ I'm currently studying backend development.
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdud0529&show_icons=true&theme=flag-india)
+
 #
 [![daykim's 42 stats](https://badge42.vercel.app/api/v2/cl1oxryjd004409ilqt88yd7f/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)

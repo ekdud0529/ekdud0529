@@ -29,6 +29,6 @@ I'm currently studying backend development.
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdud0529&show_icons=true&theme=flag-india)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdud0529)](https://solved.ac/ekdud0529/)
 #
 [![daykim's 42 stats](https://badge42.vercel.app/api/v2/cl1oxryjd004409ilqt88yd7f/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)

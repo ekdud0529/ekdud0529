@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently studying backend development.
+I'm studying backend.
 - 🌱 [Blog](https://wldwlddl59.tistory.com/)
 - 📫 E-mail : ekffkddl0529@naver.com
 

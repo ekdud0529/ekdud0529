@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 - 🌱 [Blog](https://wldwlddl59.tistory.com/)
 - 📫 E-mail : ekffkddl0529@naver.com
 
-### 📖 Education
-- <img src="https://img.shields.io/badge/42SEOUL-000000?style=flat-square&logo=42&logoColor=white"/> 5기 (2021.10 ~ 2022.08)
-- boostcamp Web 8기 (2023.07.10 ~ )
-
 ### 🖥️Tech Stack
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>  
